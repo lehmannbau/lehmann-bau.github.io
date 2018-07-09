@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lehmann-bau.com/</loc>
+    <lastmod>2018-07-06T20:19:54+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lehmann-bau.com/leistungen/</loc>
     <lastmod>2018-06-02T13:48:54+02:00</lastmod>
   </url>
@@ -44,11 +49,6 @@
   
   <url>
     <loc>https://lehmann-bau.com/global/header/</loc>
-    <lastmod>2018-05-06T20:19:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lehmann-bau.com/</loc>
     <lastmod>2018-05-06T20:19:54+02:00</lastmod>
   </url>
   
