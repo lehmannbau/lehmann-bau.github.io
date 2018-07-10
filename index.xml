@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Lehmann Bau</title>
+    <link>https://lehmann-bau.com/</link>
+    <description>Recent content in Home on Lehmann Bau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 06 Jul 2018 20:19:54 +0200</lastBuildDate>
+    
+	<atom:link href="https://lehmann-bau.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Leistungen</title>
+      <link>https://lehmann-bau.com/leistungen/</link>
+      <pubDate>Sat, 02 Jun 2018 13:48:54 +0200</pubDate>
+      
+      <guid>https://lehmann-bau.com/leistungen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Über uns</title>
+      <link>https://lehmann-bau.com/ueber-uns/</link>
+      <pubDate>Fri, 25 May 2018 09:48:59 +0200</pubDate>
+      
+      <guid>https://lehmann-bau.com/ueber-uns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Referenzen</title>
+      <link>https://lehmann-bau.com/referenzen/</link>
+      <pubDate>Fri, 25 May 2018 09:48:38 +0200</pubDate>
+      
+      <guid>https://lehmann-bau.com/referenzen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://lehmann-bau.com/kontakt/</link>
+      <pubDate>Fri, 25 May 2018 09:48:21 +0200</pubDate>
+      
+      <guid>https://lehmann-bau.com/kontakt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datenschutz</title>
+      <link>https://lehmann-bau.com/datenschutz/</link>
+      <pubDate>Fri, 25 May 2018 09:47:15 +0200</pubDate>
+      
+      <guid>https://lehmann-bau.com/datenschutz/</guid>
+      <description>Datenschutzerklärung Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung der Lehmann Bau Gbr. Eine Nutzung der Internetseiten der Lehmann Bau Gbr ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.</description>
+    </item>
+    
+    <item>
+      <title>Haftungsausschluss</title>
+      <link>https://lehmann-bau.com/haftungsausschluss/</link>
+      <pubDate>Fri, 25 May 2018 09:46:59 +0200</pubDate>
+      
+      <guid>https://lehmann-bau.com/haftungsausschluss/</guid>
+      <description>HAFTUNG FÜR INHALTE Die Inhalte unserer Seiten wurden mit größter Sorgfalterstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.
+Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://lehmann-bau.com/impressum/</link>
+      <pubDate>Fri, 25 May 2018 09:46:31 +0200</pubDate>
+      
+      <guid>https://lehmann-bau.com/impressum/</guid>
+      <description>Lehmann Bau Gbr
+Inhaber: Lehmann Sven und Lehmann Elvira
+Kleinthalhof 45
+93352 Rohr in Niederbayern
+Tel. 08783-9671272
+info@lehmann-bau.com
+Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
+Ust-IdNr. DE291414143
+Amtsgericht Regensburg
+Das Unternehmen nimmt nicht an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil.
+Design / Konzept
+elvira.beck | Design</description>
+    </item>
+    
+    <item>
+      <title>Footer</title>
+      <link>https://lehmann-bau.com/global/footer/</link>
+      <pubDate>Thu, 24 May 2018 16:23:18 +0200</pubDate>
+      
+      <guid>https://lehmann-bau.com/global/footer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Header</title>
+      <link>https://lehmann-bau.com/global/header/</link>
+      <pubDate>Sun, 06 May 2018 20:19:54 +0200</pubDate>
+      
+      <guid>https://lehmann-bau.com/global/header/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
