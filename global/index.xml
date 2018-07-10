@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Globals on Lehmann Bau</title>
+    <link>https://lehmann-bau.com/global/</link>
+    <description>Recent content in Globals on Lehmann Bau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 09 Jul 2018 20:19:54 +0200</lastBuildDate>
+    
+	<atom:link href="https://lehmann-bau.com/global/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Header</title>
+      <link>https://lehmann-bau.com/global/header/</link>
+      <pubDate>Mon, 09 Jul 2018 20:19:54 +0200</pubDate>
+      
+      <guid>https://lehmann-bau.com/global/header/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Footer</title>
+      <link>https://lehmann-bau.com/global/footer/</link>
+      <pubDate>Thu, 24 May 2018 16:23:18 +0200</pubDate>
+      
+      <guid>https://lehmann-bau.com/global/footer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
